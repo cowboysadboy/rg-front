@@ -1,0 +1,12 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="00 General / 01 Icons / 02 Common / 29 Ribbon" width="24.000000" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<mask id="mask_1_147" fill="white">
+		<path id="color" d="M19 9C19 5.134 15.866 2 12 2C8.13403 2 5 5.134 5 9C5 11.3786 6.1864 13.4801 7.99963 14.7451L8 22L12 19L16 22L16.0013 14.7444C17.8141 13.4793 19 11.3782 19 9ZM7 9C7 6.23859 9.23853 4 12 4C14.7615 4 17 6.23859 17 9C17 11.7614 14.7615 14 12 14C9.23853 14 7 11.7614 7 9ZM10 18L12 17L14 18L14 16L10 16L10 18Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="color" d="M19 9C19 5.134 15.866 2 12 2C8.13403 2 5 5.134 5 9C5 11.3786 6.1864 13.4801 7.99963 14.7451L8 22L12 19L16 22L16.0013 14.7444C17.8141 13.4793 19 11.3782 19 9ZM7 9C7 6.23859 9.23853 4 12 4C14.7615 4 17 6.23859 17 9C17 11.7614 14.7615 14 12 14C9.23853 14 7 11.7614 7 9ZM10 18L12 17L14 18L14 16L10 16L10 18Z" clip-rule="evenodd" fill="#7E84A3" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_1_147)"/>
+	<path id="color" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+</svg>

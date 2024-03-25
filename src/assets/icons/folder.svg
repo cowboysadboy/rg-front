@@ -1,0 +1,12 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="00 General / 01 Icons / 03 Files / 01 Folder" width="24.000000" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<mask id="mask_1_210" fill="white">
+		<path id="color" d="M9.5 2L12 5L20 5C21.1046 5 22 5.89545 22 7L22 19C22 20.1046 21.1046 21 20 21L4 21C2.89539 21 2 20.1046 2 19L2 4C2 2.89545 2.89539 2 4 2L9.5 2ZM8.56299 4L11.0632 7L20 7L20 19L4 19L4 4L8.56299 4Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<path id="color" d="M9.5 2L12 5L20 5C21.1046 5 22 5.89545 22 7L22 19C22 20.1046 21.1046 21 20 21L4 21C2.89539 21 2 20.1046 2 19L2 4C2 2.89545 2.89539 2 4 2L9.5 2ZM8.56299 4L11.0632 7L20 7L20 19L4 19L4 4L8.56299 4Z" clip-rule="evenodd" fill="#7E84A3" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_1_210)"/>
+	<path id="color" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+</svg>
